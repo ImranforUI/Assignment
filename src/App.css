@@ -1,0 +1,44 @@
+Your Custom Styles
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,black,blueviolet);
+}
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,black,purple);
+}
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,black,limegreen);
+}
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,black,lightblue);
+}
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,black,orange);
+}
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,black,red);
+}
+.btn-light , .bg-light{
+    background: linear-gradient(45deg,darkgrey,grey);
+}
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,black,rgb(250, 252, 252));
+}
+.table tbody tr td{
+    font-weight: bold;
+}
+.contact-img{
+    margin-top : -70px;
+}
+.landingPage {
+    background: white url("assets/bg-masarrati.jpg") no-repeat scroll;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.wrapper{
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+}
+.nav-link{
+    font-weight: bold;
+}
